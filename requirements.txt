@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-learn
+Pillow
+PyYAML
+tqdm
+matplotlib
+pytest
